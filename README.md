@@ -25,22 +25,7 @@ A lightweight Windows desktop application that transfers files between your PC a
 
 ### Screenshot
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  📁 LAN File Transfer   [📂 Open Dir] [📁 Change Dir]    │
-│                                                          │
-│  ┌─ Shared Files ─────────────┐  ┌─ Server Info ──────┐ │
-│  │  🖼 photo.jpg       ✕     │  │  Address: 192....  │ │
-│  │  📄 document.pdf    ✕     │  │  Port:    8888     │ │
-│  │                            │  │  IP:      192....  │ │
-│  └────────────────────────────┘  ├─ Phone Connect ────┤ │
-│                                   │    ┌───────┐      │ │
-│  ┌─ Transfer Log ──────────────┐ │    │ QR    │      │ │
-│  │  📥 received_file.mp3       │ │    │ Code  │      │ │
-│  │  📤 shared_doc.pdf          │ │    └───────┘      │ │
-│  └─────────────────────────────┘ └────────────────────┘ │
-└──────────────────────────────────────────────────────────┘
-```
+![LanFileTransfer Screenshot](image/image.png)
 
 ### How to Use
 
