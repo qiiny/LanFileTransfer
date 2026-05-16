@@ -58,7 +58,7 @@ A lightweight Windows desktop application that transfers files between your PC a
 ### Build from Source
 
 ```powershell
-git clone https://github.com/qiiny/LanFileTransfer.git
+git clone https://github.com/viego-qiin/LanFileTransfer.git
 cd LanFileTransfer
 dotnet restore
 dotnet build
@@ -123,7 +123,7 @@ LanFileTransfer/
 ### 从源码构建
 
 ```powershell
-git clone https://github.com/qiiny/LanFileTransfer.git
+git clone https://github.com/viego-qiin/LanFileTransfer.git
 cd LanFileTransfer
 dotnet restore
 dotnet build

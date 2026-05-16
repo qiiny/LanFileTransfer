@@ -5,7 +5,7 @@
 #define MyAppName "LanFileTransfer"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "qiiny"
-#define MyAppURL "https://github.com/qiiny/LanFileTransfer"
+#define MyAppURL "https://github.com/viego-qiin/LanFileTransfer"
 #define MyAppExeName "LanFileTransfer.exe"
 #define SourcePath "..\publish\app"
 
